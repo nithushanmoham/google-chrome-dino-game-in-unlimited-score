@@ -9,7 +9,7 @@
 ![before](https://github.com/nithushanmoham/google-chrome-dino-game-in-unlimited-score/assets/106969157/63005439-5ef5-4b27-a050-c88688c8c7a3)
 
 ### Right Click
-
+<br>
 ![image](https://github.com/nithushanmoham/google-chrome-dino-game-in-unlimited-score/assets/106969157/69a3311d-5f0f-426f-bd86-cdd85d024b01)
 
 ### Type the Codes
